@@ -1,0 +1,74 @@
+.aboutMainConteiner{
+    width: 100%;
+    min-height: calc(100vh-75px);
+   
+    
+padding: 30px;
+
+}
+.aboutDescriptionConteiner{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    background-color: rgb(228, 224, 224);
+    box-shadow: 0px 0px 3px 0px rgb(119, 119, 119);
+
+}
+.aboutDescriptionimg{
+   display: flex;
+   
+}
+.aboutDescriptionimg img{
+    width: 180px;
+    height: 180px;
+    background-color: #fff;
+    border-radius: 100%;
+
+
+}
+.marginTop20{
+    margin-top: 10px;
+}
+.aboutİnfosConteiner{
+    border: 1px solid;
+    margin: 20px 0px;
+    display: flex;
+   gap: 20px;
+
+}
+
+.aboutİnfosleftConteiner{
+    width: 180px;
+    min-height: 300px;
+    border: 1px solid;
+   
+    
+    
+
+}
+.aboutİnfosrightConteiner{
+   border: 1px solid;
+   flex: 1;
+   
+
+
+
+}
+.aboutInfosİtemContainer{
+    display: flex;
+    gap: 5px;
+    padding: 5px 3px;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+
+}
+.aboutInfosİtemContainer span{
+    font-size: 12px;
+}
+
+   
+    
+    
+    
